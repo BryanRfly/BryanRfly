@@ -14,7 +14,7 @@ ___
 <p align="center">
    <img width="300" height="150" src="https://camo.githubusercontent.com/db45054d90ef8099ce0235c82592c406dba0adcda421f8a84f162b58bab5d3e0/68747470733a2f2f636f756e742e6765746c6f6c692e636f6d2f6765742f406e6f627579616b693f7468656d653d67656c626f6f72752d68" />
 
- <a href="https://github.com/Veanyxz"><img src="https://cardivo.vercel.app/api?name=Veanyxz&description=Hi,%20i%27m%20Vean%20and%20i%27m%20just%20a%20newbie%20programmer%20Nice%20to%20meet%20you%20👋&image=https://telegra.ph/file/813d8b79c98f2432ab122.jpg&usqp=CAU&backgroundColor=%23ecf0f1&instagram=@itsmevean&github=Veanyxz&pattern=leaf&colorPattern=%23eaeaea" /><a>
+ <a href="https://github.com/BryanRfly"><img src="https://cardivo.vercel.app/api?name=BryanRfly&description=Hi, I'm BryanRfly I'm Not Programmer Because i'm Just A Copaster Reliable👋&image=https://storage-bryanrfly.yakkorasz.repl.co/file/HlBERKGTXzXP.jpg&usqp=CAU&backgroundColor=%23ecf0f1&instagram=@bryanrflynsh&github=BryanRfly&pattern=leaf&colorPattern=%23eaeaea" /><a>
 </p>
 
 ___
@@ -23,18 +23,19 @@ ___
 ```
 ___
 
-### [`👇 INTRO MY SELF`](https://instagram.com/itsmevean)
+### [`👇 INTRO MY SELF`](https://instagram.com/Bryan_Rflyy)
 ```
-"Name": "Vean",
-"Status": "Graduates SMKN 7 Surabaya",
-"Address": "Surabaya, Jawa Timur, Indonesia",
-"Age": "19 Years Old",
-"Birthday": "March - 13, 2001"
+"Name": "Bryan Raflyansah",
+"Status": "Student at SMPN 4 Boyolali",
+"Address": "Boyolali, Jawa Tengah, Indonesia",
+"Age": "15 Years Old",
+"Birthday": "May - 9, 2006"
    
 "Big Thanks To"
 
   "- Allah S.W.T"
   "- TeamProviderXploit"
+  "- Veanyxz"
   "- ΛNU Team"
   "- FXC7 Team"
   "- And My Partner"
@@ -42,33 +43,31 @@ ___
 ___
    
    <p align="center">
-  <a href="https://github.com/Veanyxz"><img src="https://github-readme-stats.vercel.app/api?username=Veanyxz&theme=tokyonight&show_icons=true" /></a>
+  <a href="https://github.com/BryanRfly"><img src="https://github-readme-stats.vercel.app/api?username=BryanRfly&theme=tokyonight&show_icons=true" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Veanyxz"><img src="https://github-readme-streak-stats.herokuapp.com?user=Veanyxz&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /><a>
+  <a href="https://github.com/BryanRfly"><img src="https://github-readme-streak-stats.herokuapp.com?user=BryanRfly&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /><a>
 </p>
   
 <p align="center">
-  <a href="https://github.com/Veanyxz"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Veanyxz&theme=tokyonight&layout=compact" /></a>
+  <a href="https://github.com/BryanRfly"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=BryanRfly&theme=tokyonight&layout=compact" /></a>
 </p>
   
 <p align="center">
-  <a href="https://github.com/Veanyxz"><img src="https://github-profile-trophy.vercel.app/?username=Veanyxz&theme=radical&margin-w=20&no-bg=true&no-frame=false" /><a>
+  <a href="https://github.com/BryanRfly"><img src="https://github-profile-trophy.vercel.app/?username=BryanRfly&theme=radical&margin-w=20&no-bg=true&no-frame=false" /><a>
 </p>
     
     ___
 
-### [` 📫 Contact & Support Me`](https://api.whatsapp.com/send?phone=628983583288&text=Assalamualaikum+Bang)
-### [` 📫 Secound Contact`](https://api.whatsapp.com/send?phone=6282246869840&text=Assalamualaikum+Bang)
-### [`📬 Website `](https://Veanyxz.github.io)
-## [`Api For You Bot Whatsapp`](https://api-hardi.herokuapp.com)
+### [` 📫 Contact & Support Me`](https://api.whatsapp.com/send?phone=6289649480997text=Assalamualaikum+Bang)
+## [`Api For You Bot Whatsapp`](https://bryanrfly-api.herokuapp.com)
 
     
 <p align="center">
-<a href="https://www.instagram.com/itsmevean" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="veanyxz@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
-<a href="https://api.whatsapp.com/send?phone=628983583288&text=p+bang+:v" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="WhatsApp"></a>
+<a href="https://www.instagram.com/bryanrflynsh" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="bryanrflyrestapi@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
+<a href="https://api.whatsapp.com/send?phone=6289649480997&text=p+bang+:v" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="WhatsApp"></a>
 </p>
 
 ___
