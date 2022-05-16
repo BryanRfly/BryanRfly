@@ -28,7 +28,7 @@ ___
 "Name": "Bryan Raflyansah",
 "Status": "Student at SMPN 4 Boyolali",
 "Address": "Boyolali, Jawa Tengah, Indonesia",
-"Age": "15 Years Old",
+"Age": "16  Years Old",
 "Birthday": "May - 9, 2006"
    
 "Big Thanks To"
