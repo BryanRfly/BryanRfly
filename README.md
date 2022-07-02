@@ -26,7 +26,7 @@ ___
 ### [`👇 INTRO MY SELF`](https://instagram.com/Bryan_Rflyy)
 ```
 "Name": "Bryan Raflyansah",
-"Status": "Student at SMPN 4 Boyolali",
+"Status": "Student",
 "Address": "Boyolali, Jawa Tengah, Indonesia",
 "Age": "16  Years Old",
 "Birthday": "May - 9, 2006"
