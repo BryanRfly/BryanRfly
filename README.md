@@ -1,13 +1,9 @@
 
-<!--
-  GITHUB PROFILE README
-  Username: BryanRfly
-  Theme: Cyberpunk / Neon
--->
+
 
 <div align="center">
 
-<!-- CYBERPUNK HEADER -->
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080812,50:24105A,100:00F5FF&height=200&section=header&text=BRYAN%20RFLY&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=STUDENT%20%2F%20BEGINNER%20PROGRAMMER&descAlignY=60&descSize=17&animation=fadeIn" />
 
 <br/>
